@@ -11,7 +11,7 @@ function Page3() {
     return (
         <>
             <div className="container mt-1">
-                <div className="row border d-flex justify-content-center align-items-center " style={{ height: "90vh" }}>
+                <div className="row d-flex justify-content-center align-items-center " style={{ height: "90vh" }}>
                     <div className="py-4 col-lg-4 col-md-4">
                         <div className="d-flex justify-content-center align-items-center">
                             <img src={success} alt="" />

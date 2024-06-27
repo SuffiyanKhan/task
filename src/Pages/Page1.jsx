@@ -5,7 +5,7 @@ function Page1() {
     <>
         <div className="container mt-2">
             <div className="row d-flex justify-content-center align-items-center">
-                <div className="py-4 border col-lg-5 col-md-5" >
+                <div className="py-4 col-lg-5 col-md-5" >
                     <div className="">
                         <h3 className="text-center fw-semibold ">
                         Step # 1
